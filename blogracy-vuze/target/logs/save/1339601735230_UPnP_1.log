@@ -1,0 +1,17 @@
+
+[13/06/12 17.23] Log File Opened for Vuze 4.7.0.2
+[17:24:12] ignoring loopback address /127.0.0.1, interface lo
+[17:24:12] ignoring loopback address /0:0:0:0:0:0:0:1, interface lo
+[17:24:12] ignoring IPv6 address /fe80:0:0:0:0:0:0:1%1, interface lo
+[17:24:16] group = /239.255.255.250:0/eth0:(ZD1211B)IEEE 802.11 b+g USB Adapter - Miniport dell'Utilità di pianificazione pacchetti-/192.168.1.1: started
+[17:24:16] ignoring IPv6 address /2001:0:5ef5:79fd:0:fbd6:af4b:f5dd, interface tun0
+[17:24:16] ignoring IPv6 address /fe80:0:0:0:0:ffff:ffff:fffd%4, interface tun0
+[17:24:16] ignoring IPv6 address /fe80:0:0:0:0:5efe:c0a8:101%2, interface tun2
+[17:24:16] Mapping request: Porta di ascolto (UDP/32965), enabled = true
+[17:24:16] Mapping request: Porta client UDP del tracker (UDP/32965), enabled = true
+[17:24:16] Mapping request: Porta di ascolto (TCP/32965), enabled = true
+[17:24:16] Mapping request: Porta di ascolto (TCP/80), enabled = false
+[17:24:16] Mapping request: Porta TCP del tracker (TCP/6969), enabled = false
+[17:24:16] Mapping request: Porta TCP con SSL del tracker (TCP/7000), enabled = false
+[17:24:16] Mapping request: Porta UDP del tracker (UDP/6969), enabled = false
+[17:24:24] Mapping request: Distributed DB (UDP/32965), enabled = true

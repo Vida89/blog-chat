@@ -1,0 +1,1497 @@
+
+[13/06/12 17.23] Log File Opened for Vuze 4.7.0.2
+[17:24:29] **** Update check starts ****
+[17:24:29] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[17:24:29] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[17:24:29] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[17:24:29] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[17:24:29] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[17:24:29] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[17:24:29] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[17:24:29] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[17:24:29] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[17:24:29] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[17:24:29] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[17:24:29] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[17:24:29] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[17:24:29] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[17:24:29] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[17:24:29] -External Seed, id = azextseed, version = 1.0, loc = 
+[17:24:29] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[17:24:29] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[17:24:29] -Amici, id = azbuddy, version = 1.0, loc = 
+[17:24:29] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[17:24:29] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[17:24:29] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:24:30] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:24:30] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,seedingcolumns1=1.3.2/1.3.2,azconfigbackup=1.1.1/1.1.1_CVS,azexec=1.2/1.2_CVS,snarl=1.0/1.0_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,dopal=/,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,TimedAutoStart=1.7/1.7_CVS,azantithrottle=0.3.2/0.3.2_CVS,azautorelocate=0.3/0.3_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,azcvsupdater=3.1.1/3.1.1_CVS,autopriority=1.0.2/1.0.2_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,p4p=0.3.2/0.3.2_CVS,azdhtfeed=0.3.8/0.3.8_CVS,azstatusmailer=0.17/0.17_CVS,azemp=3.3.3/3.3.3_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,SampleMainView1=1.0/,azsavepath=1.2.1/1.2.1_CVS,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,news=2.0.1/2.0.1_CVS,azlanpeerscanner=0.85/0.85_CVS,yaleinstrumentation=0.5/0.5_CVS,advancedstatistics=2.0.2/2.0.2_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,aefeatman_v=1.2/1.2_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[17:24:31] Checking aefeatman_v
+[17:24:31]     Current: 0.0, Latest: 1.2
+[17:24:31] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:24:31]     Description:
+[17:24:31]         Normally installed via auto-update.
+[17:24:31]         This plugin manages the installation of features.
+[17:24:31]     Comment:
+[17:24:31]         1.2: Improve error messaging for missing/disabled plugins.
+[17:24:31]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[17:24:31]         1.1: Added feature types to update params.
+[17:24:31]         1.0.2: Ensure logging is enabled when we have licences.
+[17:24:31]         1.0.1: Use correct Vuze build version.
+[17:24:31]         1.0.0: Report create error and bump version.
+[17:24:31]         0.2.8: Added more diagnostics.
+[17:24:31]         0.2.7: Normalise keys.
+[17:24:31]         0.2.5: Take shared licence write off main thread.
+[17:24:31]         0.2.4: Ensure copy of licence passed to initial add callback.
+[17:24:31]         0.2.3: Signing error.
+[17:24:31]         0.2.2: Improve error reporting.
+[17:24:31]         0.2.1: Remove debug.
+[17:24:31]         0.2: Simple UI for testing.
+[17:24:31]         0.1.6: Report failures better.
+[17:24:31]         0.1.5: Fix reporting of installation-complete event.
+[17:24:31]         0.1.4: Installation start callback.
+[17:24:31]         0.1.2: Added fingerprint and fixed a few bugs.
+[17:24:31]         0.1.1: Fix NPE.
+[17:24:31]         0.1: Initial release.
+[17:24:31]         
+[17:24:31] 
+[17:24:31]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[17:24:32] Checking azupdater
+[17:24:32]     Current: 0.0, Latest: 1.8.16
+[17:24:32] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:24:32]     Description:
+[17:24:32]         Normally installed via auto-update.
+[17:24:32]         This plugin contains support for restarting azureus when upgrading.
+[17:24:32]     Comment:
+[17:24:32]         1.8.17: Handle renamed Java vendor id.
+[17:24:32]         1.8.16: Support utf-8 action file.
+[17:24:32]         1.8.15: Write a failure file on update fail.
+[17:24:32]         1.8.14: New option to apply updates without a restart.
+[17:24:32]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[17:24:32]         1.8.9: Fix Snow Leopard open-torrent issues.
+[17:24:32]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[17:24:32]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[17:24:32]         1.8.8: Fix build error in 1.8.7.
+[17:24:32]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[17:24:32]         1.8.5: Linux restarter changed to launch using original script.
+[17:24:32]         1.8.4: File move operation now creates parent directory if required.
+[17:24:32]         
+[17:24:32]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[17:24:32]         1.8.2: OSX restart fixes.
+[17:24:32]         1.8.1: OSX native restart changes.
+[17:24:32]         1.8: Support for exe4j launcher based restart.
+[17:24:32]         1.7.1: More generic restart support.
+[17:24:32]         1.7: Patch to 2302 to fix dht version propagation problem.
+[17:24:32]         1.7: Support for moving to recycle bin.
+[17:24:32]         
+[17:24:32]         
+[17:24:32] 
+[17:24:32]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[17:24:32] Checking azupnpav
+[17:24:32]     Current: 0.0, Latest: 0.3.8
+[17:24:32] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:24:33]     Description:
+[17:24:33]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[17:24:33]         This allows conformant media renderers to stream content present in Azureus.
+[17:24:33]     Comment:
+[17:24:33]         0.3.8: Added some more DLNA source protocols.
+[17:24:33]         0.3.7: Fix synchronization.
+[17:24:33]         0.3.6: Fix auth bug.
+[17:24:33]         0.3.5: Added authentication to content port and UPnP support.
+[17:24:33]         0.3.4: Added a download option.
+[17:24:33]         0.3.3: Fix bind bug.
+[17:24:33]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[17:24:33]         0.3.1: Use black-background jpgs for some devices.
+[17:24:33]         0.3: Added some png icons.
+[17:24:33]         0.2.30: Support samsung using absolute urls in GETs.
+[17:24:33]         0.2.29.2: Added more dlna for Sony Bravia support.
+[17:24:33]         0.2.28: Some WMP support.
+[17:24:33]         0.2.27: Added .m4v to mime map.
+[17:24:33]         0.2.26: Added some boilerplate dlna headers.
+[17:24:33]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[17:24:33]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[17:24:33]         0.2.22: Added plugin method to get content mime-type.
+[17:24:33]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[17:24:33]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[17:24:33]         0.2.19: Added ascending/descending sort order option.
+[17:24:33]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[17:24:33]         0.2.17: Added .vob mime-type.
+[17:24:33]         0.2.16: Improve debug on failed HTTP gets.
+[17:24:33]         0.2.15: OK, really fix it this time.
+[17:24:33]         0.2.14: Remove debug spew and fix id allocation loop.
+[17:24:33]         0.2.13: Fix browse bug; make container ids persistent
+[17:24:33]         0.2.12: Added min stream speed option.
+[17:24:33]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[17:24:33]         0.2.10: Added some rate limiting when excess overwrite detected.
+[17:24:33]         0.2.9: Support keep-alive; added upload rate status.
+[17:24:33]         0.2.8: Changed default http port; Added default sort.
+[17:24:33]         0.2.7: Added IPC methods to support addition of content.
+[17:24:33]         0.2.6: Browse callbacks.
+[17:24:33]         0.2.5: Improve default name of server.
+[17:24:33]         0.2.4: Fix up some bugs with plugin unloading.
+[17:24:33]         0.2.3: Bit of XBox support.
+[17:24:33]         0.2.2: Handle files larger than max integer bytes.
+[17:24:33]         0.2.1: Close stream immediately to fix buffering issue.
+[17:24:33]         0.2.0: Reduced memory usage.
+[17:24:33]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[17:24:33]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[17:24:33]         0.1.7: Security fix.
+[17:24:33]         0.1.6: Fix bug with delayed content loading.
+[17:24:33]         0.1.5: Make the plugin unloadable.
+[17:24:33]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[17:24:33]         0.1.3: Fix to work with 3.0.2.0.
+[17:24:33]         0.1.2: Fixup context menus.
+[17:24:33]         0.1.1: Force .asx files to WMP.
+[17:24:33]         0.1: Initial version.
+[17:24:33]         
+[17:24:33] 
+[17:24:33]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[17:24:33] Checking azplatform2
+[17:24:33]     Current: 1.0, Latest: 1.24
+[17:24:33] Skipping blogracy as not listed on web site
+
+[13/06/12 17.35] Log File Opened for Vuze 4.7.0.2
+[17:36:23] **** Update check starts ****
+[17:36:23] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[17:36:23] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[17:36:23] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[17:36:23] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[17:36:23] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[17:36:23] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[17:36:23] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[17:36:23] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[17:36:23] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[17:36:23] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[17:36:23] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[17:36:23] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[17:36:23] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[17:36:23] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[17:36:23] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[17:36:23] -External Seed, id = azextseed, version = 1.0, loc = 
+[17:36:23] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[17:36:23] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[17:36:23] -Amici, id = azbuddy, version = 1.0, loc = 
+[17:36:23] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[17:36:23] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[17:36:23] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:36:25] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:36:25] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,seedingcolumns1=1.3.2/1.3.2,azconfigbackup=1.1.1/1.1.1_CVS,azexec=1.2/1.2_CVS,snarl=1.0/1.0_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,dopal=/,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,TimedAutoStart=1.7/1.7_CVS,azantithrottle=0.3.2/0.3.2_CVS,azautorelocate=0.3/0.3_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,azcvsupdater=3.1.1/3.1.1_CVS,autopriority=1.0.2/1.0.2_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,p4p=0.3.2/0.3.2_CVS,azdhtfeed=0.3.8/0.3.8_CVS,azstatusmailer=0.17/0.17_CVS,azemp=3.3.3/3.3.3_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,SampleMainView1=1.0/,azsavepath=1.2.1/1.2.1_CVS,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,news=2.0.1/2.0.1_CVS,azlanpeerscanner=0.85/0.85_CVS,yaleinstrumentation=0.5/0.5_CVS,advancedstatistics=2.0.2/2.0.2_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,aefeatman_v=1.2/1.2_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[17:36:25] Checking aefeatman_v
+[17:36:25]     Current: 0.0, Latest: 1.2
+[17:36:25] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:36:26]     Description:
+[17:36:26]         Normally installed via auto-update.
+[17:36:26]         This plugin manages the installation of features.
+[17:36:26]     Comment:
+[17:36:26]         1.2: Improve error messaging for missing/disabled plugins.
+[17:36:26]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[17:36:26]         1.1: Added feature types to update params.
+[17:36:26]         1.0.2: Ensure logging is enabled when we have licences.
+[17:36:26]         1.0.1: Use correct Vuze build version.
+[17:36:26]         1.0.0: Report create error and bump version.
+[17:36:26]         0.2.8: Added more diagnostics.
+[17:36:26]         0.2.7: Normalise keys.
+[17:36:26]         0.2.5: Take shared licence write off main thread.
+[17:36:26]         0.2.4: Ensure copy of licence passed to initial add callback.
+[17:36:26]         0.2.3: Signing error.
+[17:36:26]         0.2.2: Improve error reporting.
+[17:36:26]         0.2.1: Remove debug.
+[17:36:26]         0.2: Simple UI for testing.
+[17:36:26]         0.1.6: Report failures better.
+[17:36:26]         0.1.5: Fix reporting of installation-complete event.
+[17:36:26]         0.1.4: Installation start callback.
+[17:36:26]         0.1.2: Added fingerprint and fixed a few bugs.
+[17:36:26]         0.1.1: Fix NPE.
+[17:36:26]         0.1: Initial release.
+[17:36:26]         
+[17:36:26] 
+[17:36:26]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[17:36:27] Checking azupdater
+[17:36:27]     Current: 0.0, Latest: 1.8.16
+[17:36:27] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:36:27]     Description:
+[17:36:27]         Normally installed via auto-update.
+[17:36:27]         This plugin contains support for restarting azureus when upgrading.
+[17:36:27]     Comment:
+[17:36:27]         1.8.17: Handle renamed Java vendor id.
+[17:36:27]         1.8.16: Support utf-8 action file.
+[17:36:27]         1.8.15: Write a failure file on update fail.
+[17:36:27]         1.8.14: New option to apply updates without a restart.
+[17:36:27]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[17:36:27]         1.8.9: Fix Snow Leopard open-torrent issues.
+[17:36:27]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[17:36:27]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[17:36:27]         1.8.8: Fix build error in 1.8.7.
+[17:36:27]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[17:36:27]         1.8.5: Linux restarter changed to launch using original script.
+[17:36:27]         1.8.4: File move operation now creates parent directory if required.
+[17:36:27]         
+[17:36:27]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[17:36:27]         1.8.2: OSX restart fixes.
+[17:36:27]         1.8.1: OSX native restart changes.
+[17:36:27]         1.8: Support for exe4j launcher based restart.
+[17:36:27]         1.7.1: More generic restart support.
+[17:36:27]         1.7: Patch to 2302 to fix dht version propagation problem.
+[17:36:27]         1.7: Support for moving to recycle bin.
+[17:36:27]         
+[17:36:27]         
+[17:36:27] 
+[17:36:27]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[17:36:29] Checking azupnpav
+[17:36:29]     Current: 0.0, Latest: 0.3.8
+[17:36:29] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:36:29]     Description:
+[17:36:29]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[17:36:30]         This allows conformant media renderers to stream content present in Azureus.
+[17:36:30]     Comment:
+[17:36:30]         0.3.8: Added some more DLNA source protocols.
+[17:36:30]         0.3.7: Fix synchronization.
+[17:36:30]         0.3.6: Fix auth bug.
+[17:36:30]         0.3.5: Added authentication to content port and UPnP support.
+[17:36:30]         0.3.4: Added a download option.
+[17:36:30]         0.3.3: Fix bind bug.
+[17:36:30]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[17:36:30]         0.3.1: Use black-background jpgs for some devices.
+[17:36:30]         0.3: Added some png icons.
+[17:36:30]         0.2.30: Support samsung using absolute urls in GETs.
+[17:36:30]         0.2.29.2: Added more dlna for Sony Bravia support.
+[17:36:30]         0.2.28: Some WMP support.
+[17:36:30]         0.2.27: Added .m4v to mime map.
+[17:36:30]         0.2.26: Added some boilerplate dlna headers.
+[17:36:30]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[17:36:30]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[17:36:30]         0.2.22: Added plugin method to get content mime-type.
+[17:36:30]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[17:36:30]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[17:36:30]         0.2.19: Added ascending/descending sort order option.
+[17:36:30]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[17:36:30]         0.2.17: Added .vob mime-type.
+[17:36:30]         0.2.16: Improve debug on failed HTTP gets.
+[17:36:30]         0.2.15: OK, really fix it this time.
+[17:36:30]         0.2.14: Remove debug spew and fix id allocation loop.
+[17:36:30]         0.2.13: Fix browse bug; make container ids persistent
+[17:36:30]         0.2.12: Added min stream speed option.
+[17:36:30]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[17:36:30]         0.2.10: Added some rate limiting when excess overwrite detected.
+[17:36:30]         0.2.9: Support keep-alive; added upload rate status.
+[17:36:30]         0.2.8: Changed default http port; Added default sort.
+[17:36:30]         0.2.7: Added IPC methods to support addition of content.
+[17:36:30]         0.2.6: Browse callbacks.
+[17:36:30]         0.2.5: Improve default name of server.
+[17:36:30]         0.2.4: Fix up some bugs with plugin unloading.
+[17:36:30]         0.2.3: Bit of XBox support.
+[17:36:30]         0.2.2: Handle files larger than max integer bytes.
+[17:36:30]         0.2.1: Close stream immediately to fix buffering issue.
+[17:36:30]         0.2.0: Reduced memory usage.
+[17:36:30]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[17:36:30]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[17:36:30]         0.1.7: Security fix.
+[17:36:30]         0.1.6: Fix bug with delayed content loading.
+[17:36:30]         0.1.5: Make the plugin unloadable.
+[17:36:30]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[17:36:30]         0.1.3: Fix to work with 3.0.2.0.
+[17:36:30]         0.1.2: Fixup context menus.
+[17:36:30]         0.1.1: Force .asx files to WMP.
+[17:36:30]         0.1: Initial version.
+[17:36:30]         
+[17:36:30] 
+[17:36:30]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[17:36:30] Checking azplatform2
+[17:36:30]     Current: 1.0, Latest: 1.24
+[17:36:30] Skipping blogracy as not listed on web site
+
+[14/06/12 14.44] Log File Opened for Vuze 4.7.0.2
+[14:45:37] **** Update check starts ****
+[14:45:37] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[14:45:37] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[14:45:37] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[14:45:37] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[14:45:37] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[14:45:37] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[14:45:37] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[14:45:37] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[14:45:37] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[14:45:37] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[14:45:37] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[14:45:37] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[14:45:37] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[14:45:37] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[14:45:37] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[14:45:37] -External Seed, id = azextseed, version = 1.0, loc = 
+[14:45:37] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[14:45:37] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[14:45:37] -Amici, id = azbuddy, version = 1.0, loc = 
+[14:45:37] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[14:45:37] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[14:45:37] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[14:45:38] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[14:45:38] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,snarl=1.0/1.0_CVS,azconfigbackup=1.1.1/1.1.1_CVS,seedingcolumns1=1.3.2/1.3.2,azexec=1.2/1.2_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,dopal=/,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,azautorelocate=0.3/0.3_CVS,azantithrottle=0.3.2/0.3.2_CVS,TimedAutoStart=1.7/1.7_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,autopriority=1.0.2/1.0.2_CVS,azcvsupdater=3.1.1/3.1.1_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,azdhtfeed=0.3.8/0.3.8_CVS,p4p=0.3.2/0.3.2_CVS,azemp=3.3.3/3.3.3_CVS,azstatusmailer=0.17/0.17_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,azsavepath=1.2.1/1.2.1_CVS,SampleMainView1=1.0/,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,azlanpeerscanner=0.85/0.85_CVS,news=2.0.1/2.0.1_CVS,advancedstatistics=2.0.2/2.0.2_CVS,yaleinstrumentation=0.5/0.5_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,aefeatman_v=1.2/1.2_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[14:45:38] Checking aefeatman_v
+[14:45:38]     Current: 0.0, Latest: 1.2
+[14:45:38] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[14:45:39]     Description:
+[14:45:40]         Normally installed via auto-update.
+[14:45:40]         This plugin manages the installation of features.
+[14:45:40]     Comment:
+[14:45:40]         1.2: Improve error messaging for missing/disabled plugins.
+[14:45:40]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[14:45:40]         1.1: Added feature types to update params.
+[14:45:40]         1.0.2: Ensure logging is enabled when we have licences.
+[14:45:40]         1.0.1: Use correct Vuze build version.
+[14:45:40]         1.0.0: Report create error and bump version.
+[14:45:40]         0.2.8: Added more diagnostics.
+[14:45:40]         0.2.7: Normalise keys.
+[14:45:40]         0.2.5: Take shared licence write off main thread.
+[14:45:40]         0.2.4: Ensure copy of licence passed to initial add callback.
+[14:45:40]         0.2.3: Signing error.
+[14:45:40]         0.2.2: Improve error reporting.
+[14:45:40]         0.2.1: Remove debug.
+[14:45:40]         0.2: Simple UI for testing.
+[14:45:40]         0.1.6: Report failures better.
+[14:45:40]         0.1.5: Fix reporting of installation-complete event.
+[14:45:40]         0.1.4: Installation start callback.
+[14:45:40]         0.1.2: Added fingerprint and fixed a few bugs.
+[14:45:40]         0.1.1: Fix NPE.
+[14:45:40]         0.1: Initial release.
+[14:45:40]         
+[14:45:40] 
+[14:45:40]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[14:45:41] Checking azupdater
+[14:45:41]     Current: 0.0, Latest: 1.8.16
+[14:45:41] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[14:45:42]     Description:
+[14:45:42]         Normally installed via auto-update.
+[14:45:42]         This plugin contains support for restarting azureus when upgrading.
+[14:45:42]     Comment:
+[14:45:42]         1.8.17: Handle renamed Java vendor id.
+[14:45:42]         1.8.16: Support utf-8 action file.
+[14:45:42]         1.8.15: Write a failure file on update fail.
+[14:45:42]         1.8.14: New option to apply updates without a restart.
+[14:45:42]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[14:45:42]         1.8.9: Fix Snow Leopard open-torrent issues.
+[14:45:42]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[14:45:42]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[14:45:42]         1.8.8: Fix build error in 1.8.7.
+[14:45:42]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[14:45:42]         1.8.5: Linux restarter changed to launch using original script.
+[14:45:42]         1.8.4: File move operation now creates parent directory if required.
+[14:45:42]         
+[14:45:42]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[14:45:42]         1.8.2: OSX restart fixes.
+[14:45:42]         1.8.1: OSX native restart changes.
+[14:45:42]         1.8: Support for exe4j launcher based restart.
+[14:45:42]         1.7.1: More generic restart support.
+[14:45:42]         1.7: Patch to 2302 to fix dht version propagation problem.
+[14:45:42]         1.7: Support for moving to recycle bin.
+[14:45:42]         
+[14:45:42]         
+[14:45:42] 
+[14:45:42]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[14:45:42] Checking azupnpav
+[14:45:42]     Current: 0.0, Latest: 0.3.8
+[14:45:42] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[14:45:42]     Description:
+[14:45:42]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[14:45:42]         This allows conformant media renderers to stream content present in Azureus.
+[14:45:42]     Comment:
+[14:45:42]         0.3.8: Added some more DLNA source protocols.
+[14:45:42]         0.3.7: Fix synchronization.
+[14:45:42]         0.3.6: Fix auth bug.
+[14:45:42]         0.3.5: Added authentication to content port and UPnP support.
+[14:45:42]         0.3.4: Added a download option.
+[14:45:42]         0.3.3: Fix bind bug.
+[14:45:42]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[14:45:42]         0.3.1: Use black-background jpgs for some devices.
+[14:45:42]         0.3: Added some png icons.
+[14:45:42]         0.2.30: Support samsung using absolute urls in GETs.
+[14:45:42]         0.2.29.2: Added more dlna for Sony Bravia support.
+[14:45:42]         0.2.28: Some WMP support.
+[14:45:42]         0.2.27: Added .m4v to mime map.
+[14:45:42]         0.2.26: Added some boilerplate dlna headers.
+[14:45:42]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[14:45:42]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[14:45:42]         0.2.22: Added plugin method to get content mime-type.
+[14:45:42]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[14:45:42]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[14:45:42]         0.2.19: Added ascending/descending sort order option.
+[14:45:42]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[14:45:42]         0.2.17: Added .vob mime-type.
+[14:45:42]         0.2.16: Improve debug on failed HTTP gets.
+[14:45:42]         0.2.15: OK, really fix it this time.
+[14:45:42]         0.2.14: Remove debug spew and fix id allocation loop.
+[14:45:42]         0.2.13: Fix browse bug; make container ids persistent
+[14:45:42]         0.2.12: Added min stream speed option.
+[14:45:42]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[14:45:42]         0.2.10: Added some rate limiting when excess overwrite detected.
+[14:45:42]         0.2.9: Support keep-alive; added upload rate status.
+[14:45:42]         0.2.8: Changed default http port; Added default sort.
+[14:45:42]         0.2.7: Added IPC methods to support addition of content.
+[14:45:42]         0.2.6: Browse callbacks.
+[14:45:42]         0.2.5: Improve default name of server.
+[14:45:42]         0.2.4: Fix up some bugs with plugin unloading.
+[14:45:42]         0.2.3: Bit of XBox support.
+[14:45:42]         0.2.2: Handle files larger than max integer bytes.
+[14:45:42]         0.2.1: Close stream immediately to fix buffering issue.
+[14:45:42]         0.2.0: Reduced memory usage.
+[14:45:42]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[14:45:42]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[14:45:42]         0.1.7: Security fix.
+[14:45:42]         0.1.6: Fix bug with delayed content loading.
+[14:45:42]         0.1.5: Make the plugin unloadable.
+[14:45:42]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[14:45:42]         0.1.3: Fix to work with 3.0.2.0.
+[14:45:42]         0.1.2: Fixup context menus.
+[14:45:42]         0.1.1: Force .asx files to WMP.
+[14:45:42]         0.1: Initial version.
+[14:45:42]         
+[14:45:42] 
+[14:45:42]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[14:45:42] Checking azplatform2
+[14:45:42]     Current: 1.0, Latest: 1.24
+[14:45:42] Skipping blogracy as not listed on web site
+
+[14/06/12 15.31] Log File Opened for Vuze 4.7.0.2
+[15:32:21] **** Update check starts ****
+[15:32:25] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[15:32:26] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[15:32:26] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[15:32:26] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[15:32:26] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[15:32:26] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[15:32:26] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[15:32:26] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[15:32:26] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[15:32:26] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[15:32:26] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[15:32:26] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[15:32:26] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[15:32:26] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[15:32:26] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[15:32:26] -External Seed, id = azextseed, version = 1.0, loc = 
+[15:32:26] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[15:32:26] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[15:32:26] -Amici, id = azbuddy, version = 1.0, loc = 
+[15:32:26] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[15:32:26] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[15:32:26] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[15:32:32] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[15:32:32] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,snarl=1.0/1.0_CVS,azconfigbackup=1.1.1/1.1.1_CVS,seedingcolumns1=1.3.2/1.3.2,azexec=1.2/1.2_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,dopal=/,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,azautorelocate=0.3/0.3_CVS,azantithrottle=0.3.2/0.3.2_CVS,TimedAutoStart=1.7/1.7_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,autopriority=1.0.2/1.0.2_CVS,azcvsupdater=3.1.1/3.1.1_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,azdhtfeed=0.3.8/0.3.8_CVS,p4p=0.3.2/0.3.2_CVS,azemp=3.3.3/3.3.3_CVS,azstatusmailer=0.17/0.17_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,azsavepath=1.2.1/1.2.1_CVS,SampleMainView1=1.0/,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,azlanpeerscanner=0.85/0.85_CVS,news=2.0.1/2.0.1_CVS,advancedstatistics=2.0.2/2.0.2_CVS,yaleinstrumentation=0.5/0.5_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,aefeatman_v=1.2/1.2_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[15:32:32] Checking aefeatman_v
+[15:32:32]     Current: 0.0, Latest: 1.2
+[15:32:32] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[15:32:33]     Description:
+[15:32:33]         Normally installed via auto-update.
+[15:32:33]         This plugin manages the installation of features.
+[15:32:33]     Comment:
+[15:32:33]         1.2: Improve error messaging for missing/disabled plugins.
+[15:32:33]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[15:32:33]         1.1: Added feature types to update params.
+[15:32:33]         1.0.2: Ensure logging is enabled when we have licences.
+[15:32:33]         1.0.1: Use correct Vuze build version.
+[15:32:33]         1.0.0: Report create error and bump version.
+[15:32:33]         0.2.8: Added more diagnostics.
+[15:32:33]         0.2.7: Normalise keys.
+[15:32:33]         0.2.5: Take shared licence write off main thread.
+[15:32:33]         0.2.4: Ensure copy of licence passed to initial add callback.
+[15:32:33]         0.2.3: Signing error.
+[15:32:33]         0.2.2: Improve error reporting.
+[15:32:33]         0.2.1: Remove debug.
+[15:32:33]         0.2: Simple UI for testing.
+[15:32:33]         0.1.6: Report failures better.
+[15:32:33]         0.1.5: Fix reporting of installation-complete event.
+[15:32:33]         0.1.4: Installation start callback.
+[15:32:33]         0.1.2: Added fingerprint and fixed a few bugs.
+[15:32:33]         0.1.1: Fix NPE.
+[15:32:33]         0.1: Initial release.
+[15:32:33]         
+[15:32:33] 
+[15:32:33]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[15:32:34] Checking azupdater
+[15:32:34]     Current: 0.0, Latest: 1.8.16
+[15:32:34] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[15:32:35]     Description:
+[15:32:35]         Normally installed via auto-update.
+[15:32:35]         This plugin contains support for restarting azureus when upgrading.
+[15:32:35]     Comment:
+[15:32:35]         1.8.17: Handle renamed Java vendor id.
+[15:32:35]         1.8.16: Support utf-8 action file.
+[15:32:35]         1.8.15: Write a failure file on update fail.
+[15:32:35]         1.8.14: New option to apply updates without a restart.
+[15:32:35]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[15:32:35]         1.8.9: Fix Snow Leopard open-torrent issues.
+[15:32:35]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[15:32:35]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[15:32:35]         1.8.8: Fix build error in 1.8.7.
+[15:32:35]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[15:32:35]         1.8.5: Linux restarter changed to launch using original script.
+[15:32:35]         1.8.4: File move operation now creates parent directory if required.
+[15:32:35]         
+[15:32:35]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[15:32:35]         1.8.2: OSX restart fixes.
+[15:32:35]         1.8.1: OSX native restart changes.
+[15:32:35]         1.8: Support for exe4j launcher based restart.
+[15:32:35]         1.7.1: More generic restart support.
+[15:32:35]         1.7: Patch to 2302 to fix dht version propagation problem.
+[15:32:35]         1.7: Support for moving to recycle bin.
+[15:32:35]         
+[15:32:35]         
+[15:32:35] 
+[15:32:35]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[15:32:35] Checking azupnpav
+[15:32:35]     Current: 0.0, Latest: 0.3.8
+[15:32:35] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[15:32:35]     Description:
+[15:32:35]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[15:32:35]         This allows conformant media renderers to stream content present in Azureus.
+[15:32:35]     Comment:
+[15:32:35]         0.3.8: Added some more DLNA source protocols.
+[15:32:35]         0.3.7: Fix synchronization.
+[15:32:35]         0.3.6: Fix auth bug.
+[15:32:35]         0.3.5: Added authentication to content port and UPnP support.
+[15:32:35]         0.3.4: Added a download option.
+[15:32:35]         0.3.3: Fix bind bug.
+[15:32:35]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[15:32:35]         0.3.1: Use black-background jpgs for some devices.
+[15:32:35]         0.3: Added some png icons.
+[15:32:35]         0.2.30: Support samsung using absolute urls in GETs.
+[15:32:35]         0.2.29.2: Added more dlna for Sony Bravia support.
+[15:32:35]         0.2.28: Some WMP support.
+[15:32:35]         0.2.27: Added .m4v to mime map.
+[15:32:35]         0.2.26: Added some boilerplate dlna headers.
+[15:32:35]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[15:32:35]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[15:32:35]         0.2.22: Added plugin method to get content mime-type.
+[15:32:35]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[15:32:35]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[15:32:35]         0.2.19: Added ascending/descending sort order option.
+[15:32:35]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[15:32:35]         0.2.17: Added .vob mime-type.
+[15:32:35]         0.2.16: Improve debug on failed HTTP gets.
+[15:32:35]         0.2.15: OK, really fix it this time.
+[15:32:35]         0.2.14: Remove debug spew and fix id allocation loop.
+[15:32:35]         0.2.13: Fix browse bug; make container ids persistent
+[15:32:35]         0.2.12: Added min stream speed option.
+[15:32:35]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[15:32:35]         0.2.10: Added some rate limiting when excess overwrite detected.
+[15:32:35]         0.2.9: Support keep-alive; added upload rate status.
+[15:32:35]         0.2.8: Changed default http port; Added default sort.
+[15:32:35]         0.2.7: Added IPC methods to support addition of content.
+[15:32:35]         0.2.6: Browse callbacks.
+[15:32:35]         0.2.5: Improve default name of server.
+[15:32:35]         0.2.4: Fix up some bugs with plugin unloading.
+[15:32:35]         0.2.3: Bit of XBox support.
+[15:32:35]         0.2.2: Handle files larger than max integer bytes.
+[15:32:35]         0.2.1: Close stream immediately to fix buffering issue.
+[15:32:35]         0.2.0: Reduced memory usage.
+[15:32:35]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[15:32:35]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[15:32:35]         0.1.7: Security fix.
+[15:32:35]         0.1.6: Fix bug with delayed content loading.
+[15:32:35]         0.1.5: Make the plugin unloadable.
+[15:32:35]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[15:32:35]         0.1.3: Fix to work with 3.0.2.0.
+[15:32:35]         0.1.2: Fixup context menus.
+[15:32:35]         0.1.1: Force .asx files to WMP.
+[15:32:35]         0.1: Initial version.
+[15:32:35]         
+[15:32:35] 
+[15:32:35]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[15:32:36] Checking azplatform2
+[15:32:36]     Current: 1.0, Latest: 1.24
+[15:32:36] Skipping blogracy as not listed on web site
+
+[14/06/12 16.15] Log File Opened for Vuze 4.7.0.2
+[16:16:20] **** Update check starts ****
+[16:16:20] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[16:16:20] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[16:16:20] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[16:16:20] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[16:16:20] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[16:16:20] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[16:16:20] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[16:16:20] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[16:16:20] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[16:16:20] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[16:16:20] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[16:16:20] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[16:16:20] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[16:16:20] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[16:16:20] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[16:16:20] -External Seed, id = azextseed, version = 1.0, loc = 
+[16:16:20] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[16:16:20] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[16:16:20] -Amici, id = azbuddy, version = 1.0, loc = 
+[16:16:20] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[16:16:20] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[16:16:20] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:16:23] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:16:23] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,seedingcolumns1=1.3.2/1.3.2,azconfigbackup=1.1.1/1.1.1_CVS,azexec=1.2/1.2_CVS,snarl=1.0/1.0_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,dopal=/,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,TimedAutoStart=1.7/1.7_CVS,azantithrottle=0.3.2/0.3.2_CVS,azautorelocate=0.3/0.3_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,azcvsupdater=3.1.1/3.1.1_CVS,autopriority=1.0.2/1.0.2_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,p4p=0.3.2/0.3.2_CVS,azdhtfeed=0.3.8/0.3.8_CVS,azstatusmailer=0.17/0.17_CVS,azemp=3.3.3/3.3.3_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,SampleMainView1=1.0/,azsavepath=1.2.1/1.2.1_CVS,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,news=2.0.1/2.0.1_CVS,azlanpeerscanner=0.85/0.85_CVS,yaleinstrumentation=0.5/0.5_CVS,advancedstatistics=2.0.2/2.0.2_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,aefeatman_v=1.2/1.2_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[16:16:23] Checking aefeatman_v
+[16:16:23]     Current: 0.0, Latest: 1.2
+[16:16:23] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:16:23]     Description:
+[16:16:23]         Normally installed via auto-update.
+[16:16:23]         This plugin manages the installation of features.
+[16:16:23]     Comment:
+[16:16:23]         1.2: Improve error messaging for missing/disabled plugins.
+[16:16:23]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[16:16:23]         1.1: Added feature types to update params.
+[16:16:23]         1.0.2: Ensure logging is enabled when we have licences.
+[16:16:23]         1.0.1: Use correct Vuze build version.
+[16:16:23]         1.0.0: Report create error and bump version.
+[16:16:23]         0.2.8: Added more diagnostics.
+[16:16:23]         0.2.7: Normalise keys.
+[16:16:23]         0.2.5: Take shared licence write off main thread.
+[16:16:23]         0.2.4: Ensure copy of licence passed to initial add callback.
+[16:16:23]         0.2.3: Signing error.
+[16:16:23]         0.2.2: Improve error reporting.
+[16:16:23]         0.2.1: Remove debug.
+[16:16:23]         0.2: Simple UI for testing.
+[16:16:23]         0.1.6: Report failures better.
+[16:16:23]         0.1.5: Fix reporting of installation-complete event.
+[16:16:23]         0.1.4: Installation start callback.
+[16:16:23]         0.1.2: Added fingerprint and fixed a few bugs.
+[16:16:23]         0.1.1: Fix NPE.
+[16:16:23]         0.1: Initial release.
+[16:16:23]         
+[16:16:23] 
+[16:16:23]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[16:16:24] Checking azupdater
+[16:16:24]     Current: 0.0, Latest: 1.8.16
+[16:16:24] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:16:24]     Description:
+[16:16:24]         Normally installed via auto-update.
+[16:16:24]         This plugin contains support for restarting azureus when upgrading.
+[16:16:24]     Comment:
+[16:16:24]         1.8.17: Handle renamed Java vendor id.
+[16:16:24]         1.8.16: Support utf-8 action file.
+[16:16:24]         1.8.15: Write a failure file on update fail.
+[16:16:24]         1.8.14: New option to apply updates without a restart.
+[16:16:24]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[16:16:24]         1.8.9: Fix Snow Leopard open-torrent issues.
+[16:16:24]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[16:16:24]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[16:16:24]         1.8.8: Fix build error in 1.8.7.
+[16:16:24]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[16:16:24]         1.8.5: Linux restarter changed to launch using original script.
+[16:16:24]         1.8.4: File move operation now creates parent directory if required.
+[16:16:24]         
+[16:16:24]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[16:16:24]         1.8.2: OSX restart fixes.
+[16:16:24]         1.8.1: OSX native restart changes.
+[16:16:24]         1.8: Support for exe4j launcher based restart.
+[16:16:24]         1.7.1: More generic restart support.
+[16:16:24]         1.7: Patch to 2302 to fix dht version propagation problem.
+[16:16:24]         1.7: Support for moving to recycle bin.
+[16:16:24]         
+[16:16:24]         
+[16:16:24] 
+[16:16:24]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[16:16:25] Checking azupnpav
+[16:16:25]     Current: 0.0, Latest: 0.3.8
+[16:16:25] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:16:25]     Description:
+[16:16:25]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[16:16:25]         This allows conformant media renderers to stream content present in Azureus.
+[16:16:25]     Comment:
+[16:16:25]         0.3.8: Added some more DLNA source protocols.
+[16:16:25]         0.3.7: Fix synchronization.
+[16:16:25]         0.3.6: Fix auth bug.
+[16:16:25]         0.3.5: Added authentication to content port and UPnP support.
+[16:16:25]         0.3.4: Added a download option.
+[16:16:25]         0.3.3: Fix bind bug.
+[16:16:25]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[16:16:25]         0.3.1: Use black-background jpgs for some devices.
+[16:16:25]         0.3: Added some png icons.
+[16:16:25]         0.2.30: Support samsung using absolute urls in GETs.
+[16:16:25]         0.2.29.2: Added more dlna for Sony Bravia support.
+[16:16:25]         0.2.28: Some WMP support.
+[16:16:25]         0.2.27: Added .m4v to mime map.
+[16:16:25]         0.2.26: Added some boilerplate dlna headers.
+[16:16:25]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[16:16:25]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[16:16:25]         0.2.22: Added plugin method to get content mime-type.
+[16:16:25]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[16:16:25]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[16:16:25]         0.2.19: Added ascending/descending sort order option.
+[16:16:25]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[16:16:25]         0.2.17: Added .vob mime-type.
+[16:16:25]         0.2.16: Improve debug on failed HTTP gets.
+[16:16:25]         0.2.15: OK, really fix it this time.
+[16:16:25]         0.2.14: Remove debug spew and fix id allocation loop.
+[16:16:25]         0.2.13: Fix browse bug; make container ids persistent
+[16:16:25]         0.2.12: Added min stream speed option.
+[16:16:25]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[16:16:25]         0.2.10: Added some rate limiting when excess overwrite detected.
+[16:16:25]         0.2.9: Support keep-alive; added upload rate status.
+[16:16:25]         0.2.8: Changed default http port; Added default sort.
+[16:16:25]         0.2.7: Added IPC methods to support addition of content.
+[16:16:25]         0.2.6: Browse callbacks.
+[16:16:25]         0.2.5: Improve default name of server.
+[16:16:25]         0.2.4: Fix up some bugs with plugin unloading.
+[16:16:25]         0.2.3: Bit of XBox support.
+[16:16:25]         0.2.2: Handle files larger than max integer bytes.
+[16:16:25]         0.2.1: Close stream immediately to fix buffering issue.
+[16:16:25]         0.2.0: Reduced memory usage.
+[16:16:25]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[16:16:25]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[16:16:25]         0.1.7: Security fix.
+[16:16:25]         0.1.6: Fix bug with delayed content loading.
+[16:16:25]         0.1.5: Make the plugin unloadable.
+[16:16:25]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[16:16:25]         0.1.3: Fix to work with 3.0.2.0.
+[16:16:25]         0.1.2: Fixup context menus.
+[16:16:25]         0.1.1: Force .asx files to WMP.
+[16:16:25]         0.1: Initial version.
+[16:16:25]         
+[16:16:25] 
+[16:16:25]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[16:16:25] Checking azplatform2
+[16:16:25]     Current: 1.0, Latest: 1.24
+[16:16:25] Skipping blogracy as not listed on web site
+
+[14/06/12 16.45] Log File Opened for Vuze 4.7.0.2
+[16:46:08] **** Update check starts ****
+[16:46:09] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[16:46:09] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[16:46:09] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[16:46:09] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[16:46:09] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[16:46:09] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[16:46:09] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[16:46:09] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[16:46:09] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[16:46:09] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[16:46:09] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[16:46:09] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[16:46:09] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[16:46:09] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[16:46:09] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[16:46:09] -External Seed, id = azextseed, version = 1.0, loc = 
+[16:46:09] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[16:46:09] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[16:46:09] -Amici, id = azbuddy, version = 1.0, loc = 
+[16:46:09] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[16:46:09] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[16:46:10] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:46:10] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,snarl=1.0/1.0_CVS,azconfigbackup=1.1.1/1.1.1_CVS,seedingcolumns1=1.3.2/1.3.2,azexec=1.2/1.2_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,dopal=/,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,azautorelocate=0.3/0.3_CVS,azantithrottle=0.3.2/0.3.2_CVS,TimedAutoStart=1.7/1.7_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,autopriority=1.0.2/1.0.2_CVS,azcvsupdater=3.1.1/3.1.1_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,azdhtfeed=0.3.8/0.3.8_CVS,p4p=0.3.2/0.3.2_CVS,azemp=3.3.3/3.3.3_CVS,azstatusmailer=0.17/0.17_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,azsavepath=1.2.1/1.2.1_CVS,SampleMainView1=1.0/,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,azlanpeerscanner=0.85/0.85_CVS,news=2.0.1/2.0.1_CVS,advancedstatistics=2.0.2/2.0.2_CVS,yaleinstrumentation=0.5/0.5_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,aefeatman_v=1.2/1.2_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[16:46:10] Checking aefeatman_v
+[16:46:10]     Current: 0.0, Latest: 1.2
+[16:46:10] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:46:11]     Description:
+[16:46:11]         Normally installed via auto-update.
+[16:46:11]         This plugin manages the installation of features.
+[16:46:11]     Comment:
+[16:46:11]         1.2: Improve error messaging for missing/disabled plugins.
+[16:46:11]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[16:46:11]         1.1: Added feature types to update params.
+[16:46:11]         1.0.2: Ensure logging is enabled when we have licences.
+[16:46:11]         1.0.1: Use correct Vuze build version.
+[16:46:11]         1.0.0: Report create error and bump version.
+[16:46:11]         0.2.8: Added more diagnostics.
+[16:46:11]         0.2.7: Normalise keys.
+[16:46:11]         0.2.5: Take shared licence write off main thread.
+[16:46:11]         0.2.4: Ensure copy of licence passed to initial add callback.
+[16:46:11]         0.2.3: Signing error.
+[16:46:11]         0.2.2: Improve error reporting.
+[16:46:11]         0.2.1: Remove debug.
+[16:46:11]         0.2: Simple UI for testing.
+[16:46:11]         0.1.6: Report failures better.
+[16:46:11]         0.1.5: Fix reporting of installation-complete event.
+[16:46:11]         0.1.4: Installation start callback.
+[16:46:11]         0.1.2: Added fingerprint and fixed a few bugs.
+[16:46:11]         0.1.1: Fix NPE.
+[16:46:11]         0.1: Initial release.
+[16:46:11]         
+[16:46:11] 
+[16:46:11]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[16:46:11] Checking azupnpav
+[16:46:11]     Current: 0.0, Latest: 0.3.8
+[16:46:11] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:46:12]     Description:
+[16:46:12]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[16:46:12]         This allows conformant media renderers to stream content present in Azureus.
+[16:46:12]     Comment:
+[16:46:12]         0.3.8: Added some more DLNA source protocols.
+[16:46:12]         0.3.7: Fix synchronization.
+[16:46:12]         0.3.6: Fix auth bug.
+[16:46:12]         0.3.5: Added authentication to content port and UPnP support.
+[16:46:12]         0.3.4: Added a download option.
+[16:46:12]         0.3.3: Fix bind bug.
+[16:46:12]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[16:46:12]         0.3.1: Use black-background jpgs for some devices.
+[16:46:12]         0.3: Added some png icons.
+[16:46:12]         0.2.30: Support samsung using absolute urls in GETs.
+[16:46:12]         0.2.29.2: Added more dlna for Sony Bravia support.
+[16:46:12]         0.2.28: Some WMP support.
+[16:46:12]         0.2.27: Added .m4v to mime map.
+[16:46:12]         0.2.26: Added some boilerplate dlna headers.
+[16:46:12]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[16:46:12]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[16:46:12]         0.2.22: Added plugin method to get content mime-type.
+[16:46:12]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[16:46:12]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[16:46:12]         0.2.19: Added ascending/descending sort order option.
+[16:46:12]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[16:46:12]         0.2.17: Added .vob mime-type.
+[16:46:12]         0.2.16: Improve debug on failed HTTP gets.
+[16:46:12]         0.2.15: OK, really fix it this time.
+[16:46:12]         0.2.14: Remove debug spew and fix id allocation loop.
+[16:46:12]         0.2.13: Fix browse bug; make container ids persistent
+[16:46:12]         0.2.12: Added min stream speed option.
+[16:46:12]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[16:46:12]         0.2.10: Added some rate limiting when excess overwrite detected.
+[16:46:12]         0.2.9: Support keep-alive; added upload rate status.
+[16:46:12]         0.2.8: Changed default http port; Added default sort.
+[16:46:12]         0.2.7: Added IPC methods to support addition of content.
+[16:46:12]         0.2.6: Browse callbacks.
+[16:46:12]         0.2.5: Improve default name of server.
+[16:46:12]         0.2.4: Fix up some bugs with plugin unloading.
+[16:46:12]         0.2.3: Bit of XBox support.
+[16:46:12]         0.2.2: Handle files larger than max integer bytes.
+[16:46:12]         0.2.1: Close stream immediately to fix buffering issue.
+[16:46:12]         0.2.0: Reduced memory usage.
+[16:46:12]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[16:46:12]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[16:46:12]         0.1.7: Security fix.
+[16:46:12]         0.1.6: Fix bug with delayed content loading.
+[16:46:12]         0.1.5: Make the plugin unloadable.
+[16:46:12]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[16:46:12]         0.1.3: Fix to work with 3.0.2.0.
+[16:46:12]         0.1.2: Fixup context menus.
+[16:46:12]         0.1.1: Force .asx files to WMP.
+[16:46:12]         0.1: Initial version.
+[16:46:12]         
+[16:46:12] 
+[16:46:12]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[16:46:12] Checking azupdater
+[16:46:12]     Current: 0.0, Latest: 1.8.16
+[16:46:12] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[16:46:12]     Description:
+[16:46:12]         Normally installed via auto-update.
+[16:46:12]         This plugin contains support for restarting azureus when upgrading.
+[16:46:12]     Comment:
+[16:46:12]         1.8.17: Handle renamed Java vendor id.
+[16:46:12]         1.8.16: Support utf-8 action file.
+[16:46:12]         1.8.15: Write a failure file on update fail.
+[16:46:12]         1.8.14: New option to apply updates without a restart.
+[16:46:12]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[16:46:12]         1.8.9: Fix Snow Leopard open-torrent issues.
+[16:46:12]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[16:46:12]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[16:46:12]         1.8.8: Fix build error in 1.8.7.
+[16:46:12]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[16:46:12]         1.8.5: Linux restarter changed to launch using original script.
+[16:46:12]         1.8.4: File move operation now creates parent directory if required.
+[16:46:12]         
+[16:46:12]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[16:46:12]         1.8.2: OSX restart fixes.
+[16:46:12]         1.8.1: OSX native restart changes.
+[16:46:12]         1.8: Support for exe4j launcher based restart.
+[16:46:12]         1.7.1: More generic restart support.
+[16:46:12]         1.7: Patch to 2302 to fix dht version propagation problem.
+[16:46:12]         1.7: Support for moving to recycle bin.
+[16:46:12]         
+[16:46:12]         
+[16:46:12] 
+[16:46:12]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[16:46:13] Checking azplatform2
+[16:46:13]     Current: 1.0, Latest: 1.24
+[16:46:13] Skipping blogracy as not listed on web site
+
+[14/06/12 17.03] Log File Opened for Vuze 4.7.0.2
+[17:04:22] **** Update check starts ****
+[17:04:22] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[17:04:22] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[17:04:22] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[17:04:22] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[17:04:22] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[17:04:22] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[17:04:22] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[17:04:22] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[17:04:22] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[17:04:22] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[17:04:22] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[17:04:22] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[17:04:22] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[17:04:22] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[17:04:22] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[17:04:22] -External Seed, id = azextseed, version = 1.0, loc = 
+[17:04:22] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[17:04:22] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[17:04:22] -Amici, id = azbuddy, version = 1.0, loc = 
+[17:04:22] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[17:04:22] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[17:04:23] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:04:24] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,snarl=1.0/1.0_CVS,azconfigbackup=1.1.1/1.1.1_CVS,seedingcolumns1=1.3.2/1.3.2,azexec=1.2/1.2_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,dopal=/,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,azautorelocate=0.3/0.3_CVS,azantithrottle=0.3.2/0.3.2_CVS,TimedAutoStart=1.7/1.7_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,autopriority=1.0.2/1.0.2_CVS,azcvsupdater=3.1.1/3.1.1_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,azdhtfeed=0.3.8/0.3.8_CVS,p4p=0.3.2/0.3.2_CVS,azemp=3.3.3/3.3.3_CVS,azstatusmailer=0.17/0.17_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,azsavepath=1.2.1/1.2.1_CVS,SampleMainView1=1.0/,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,azlanpeerscanner=0.85/0.85_CVS,news=2.0.1/2.0.1_CVS,advancedstatistics=2.0.2/2.0.2_CVS,yaleinstrumentation=0.5/0.5_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,aefeatman_v=1.2/1.2_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[17:04:24] Checking aefeatman_v
+[17:04:24]     Current: 0.0, Latest: 1.2
+[17:04:24] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:04:24]     Description:
+[17:04:24]         Normally installed via auto-update.
+[17:04:24]         This plugin manages the installation of features.
+[17:04:24]     Comment:
+[17:04:24]         1.2: Improve error messaging for missing/disabled plugins.
+[17:04:24]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[17:04:24]         1.1: Added feature types to update params.
+[17:04:24]         1.0.2: Ensure logging is enabled when we have licences.
+[17:04:24]         1.0.1: Use correct Vuze build version.
+[17:04:24]         1.0.0: Report create error and bump version.
+[17:04:24]         0.2.8: Added more diagnostics.
+[17:04:24]         0.2.7: Normalise keys.
+[17:04:24]         0.2.5: Take shared licence write off main thread.
+[17:04:24]         0.2.4: Ensure copy of licence passed to initial add callback.
+[17:04:24]         0.2.3: Signing error.
+[17:04:24]         0.2.2: Improve error reporting.
+[17:04:24]         0.2.1: Remove debug.
+[17:04:24]         0.2: Simple UI for testing.
+[17:04:24]         0.1.6: Report failures better.
+[17:04:24]         0.1.5: Fix reporting of installation-complete event.
+[17:04:24]         0.1.4: Installation start callback.
+[17:04:24]         0.1.2: Added fingerprint and fixed a few bugs.
+[17:04:24]         0.1.1: Fix NPE.
+[17:04:24]         0.1: Initial release.
+[17:04:24]         
+[17:04:24] 
+[17:04:24]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[17:04:26] Checking azupdater
+[17:04:26]     Current: 0.0, Latest: 1.8.16
+[17:04:26] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:04:26]     Description:
+[17:04:26]         Normally installed via auto-update.
+[17:04:26]         This plugin contains support for restarting azureus when upgrading.
+[17:04:26]     Comment:
+[17:04:26]         1.8.17: Handle renamed Java vendor id.
+[17:04:26]         1.8.16: Support utf-8 action file.
+[17:04:26]         1.8.15: Write a failure file on update fail.
+[17:04:26]         1.8.14: New option to apply updates without a restart.
+[17:04:26]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[17:04:26]         1.8.9: Fix Snow Leopard open-torrent issues.
+[17:04:26]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[17:04:26]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[17:04:26]         1.8.8: Fix build error in 1.8.7.
+[17:04:26]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[17:04:26]         1.8.5: Linux restarter changed to launch using original script.
+[17:04:26]         1.8.4: File move operation now creates parent directory if required.
+[17:04:26]         
+[17:04:26]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[17:04:26]         1.8.2: OSX restart fixes.
+[17:04:26]         1.8.1: OSX native restart changes.
+[17:04:26]         1.8: Support for exe4j launcher based restart.
+[17:04:26]         1.7.1: More generic restart support.
+[17:04:26]         1.7: Patch to 2302 to fix dht version propagation problem.
+[17:04:26]         1.7: Support for moving to recycle bin.
+[17:04:26]         
+[17:04:26]         
+[17:04:26] 
+[17:04:26]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[17:04:26] Checking azupnpav
+[17:04:26]     Current: 0.0, Latest: 0.3.8
+[17:04:26] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:04:27]     Description:
+[17:04:27]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[17:04:27]         This allows conformant media renderers to stream content present in Azureus.
+[17:04:27]     Comment:
+[17:04:27]         0.3.8: Added some more DLNA source protocols.
+[17:04:27]         0.3.7: Fix synchronization.
+[17:04:27]         0.3.6: Fix auth bug.
+[17:04:27]         0.3.5: Added authentication to content port and UPnP support.
+[17:04:27]         0.3.4: Added a download option.
+[17:04:27]         0.3.3: Fix bind bug.
+[17:04:27]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[17:04:27]         0.3.1: Use black-background jpgs for some devices.
+[17:04:27]         0.3: Added some png icons.
+[17:04:27]         0.2.30: Support samsung using absolute urls in GETs.
+[17:04:27]         0.2.29.2: Added more dlna for Sony Bravia support.
+[17:04:27]         0.2.28: Some WMP support.
+[17:04:27]         0.2.27: Added .m4v to mime map.
+[17:04:27]         0.2.26: Added some boilerplate dlna headers.
+[17:04:27]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[17:04:27]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[17:04:27]         0.2.22: Added plugin method to get content mime-type.
+[17:04:27]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[17:04:27]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[17:04:27]         0.2.19: Added ascending/descending sort order option.
+[17:04:27]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[17:04:27]         0.2.17: Added .vob mime-type.
+[17:04:27]         0.2.16: Improve debug on failed HTTP gets.
+[17:04:27]         0.2.15: OK, really fix it this time.
+[17:04:27]         0.2.14: Remove debug spew and fix id allocation loop.
+[17:04:27]         0.2.13: Fix browse bug; make container ids persistent
+[17:04:27]         0.2.12: Added min stream speed option.
+[17:04:27]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[17:04:27]         0.2.10: Added some rate limiting when excess overwrite detected.
+[17:04:27]         0.2.9: Support keep-alive; added upload rate status.
+[17:04:27]         0.2.8: Changed default http port; Added default sort.
+[17:04:27]         0.2.7: Added IPC methods to support addition of content.
+[17:04:27]         0.2.6: Browse callbacks.
+[17:04:27]         0.2.5: Improve default name of server.
+[17:04:27]         0.2.4: Fix up some bugs with plugin unloading.
+[17:04:27]         0.2.3: Bit of XBox support.
+[17:04:27]         0.2.2: Handle files larger than max integer bytes.
+[17:04:27]         0.2.1: Close stream immediately to fix buffering issue.
+[17:04:27]         0.2.0: Reduced memory usage.
+[17:04:27]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[17:04:27]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[17:04:27]         0.1.7: Security fix.
+[17:04:27]         0.1.6: Fix bug with delayed content loading.
+[17:04:27]         0.1.5: Make the plugin unloadable.
+[17:04:27]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[17:04:27]         0.1.3: Fix to work with 3.0.2.0.
+[17:04:27]         0.1.2: Fixup context menus.
+[17:04:27]         0.1.1: Force .asx files to WMP.
+[17:04:27]         0.1: Initial version.
+[17:04:27]         
+[17:04:27] 
+[17:04:27]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[17:04:27] Checking azplatform2
+[17:04:27]     Current: 1.0, Latest: 1.24
+[17:04:27] Skipping blogracy as not listed on web site
+
+[14/06/12 17.15] Log File Opened for Vuze 4.7.0.2
+[17:16:03] **** Update check starts ****
+[17:16:04] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[17:16:04] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[17:16:04] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[17:16:04] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[17:16:04] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[17:16:04] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[17:16:04] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[17:16:04] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[17:16:04] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[17:16:04] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[17:16:04] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[17:16:04] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[17:16:04] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[17:16:04] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[17:16:04] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[17:16:04] -External Seed, id = azextseed, version = 1.0, loc = 
+[17:16:04] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[17:16:04] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[17:16:04] -Amici, id = azbuddy, version = 1.0, loc = 
+[17:16:04] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[17:16:04] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[17:16:05] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:16:05] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,snarl=1.0/1.0_CVS,azconfigbackup=1.1.1/1.1.1_CVS,seedingcolumns1=1.3.2/1.3.2,azexec=1.2/1.2_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,dopal=/,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,azautorelocate=0.3/0.3_CVS,azantithrottle=0.3.2/0.3.2_CVS,TimedAutoStart=1.7/1.7_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,autopriority=1.0.2/1.0.2_CVS,azcvsupdater=3.1.1/3.1.1_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,azdhtfeed=0.3.8/0.3.8_CVS,p4p=0.3.2/0.3.2_CVS,azemp=3.3.3/3.3.3_CVS,azstatusmailer=0.17/0.17_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,azsavepath=1.2.1/1.2.1_CVS,SampleMainView1=1.0/,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,azlanpeerscanner=0.85/0.85_CVS,news=2.0.1/2.0.1_CVS,advancedstatistics=2.0.2/2.0.2_CVS,yaleinstrumentation=0.5/0.5_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,aefeatman_v=1.2/1.2_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[17:16:05] Checking aefeatman_v
+[17:16:05]     Current: 0.0, Latest: 1.2
+[17:16:05] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:16:05]     Description:
+[17:16:05]         Normally installed via auto-update.
+[17:16:05]         This plugin manages the installation of features.
+[17:16:05]     Comment:
+[17:16:05]         1.2: Improve error messaging for missing/disabled plugins.
+[17:16:05]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[17:16:05]         1.1: Added feature types to update params.
+[17:16:05]         1.0.2: Ensure logging is enabled when we have licences.
+[17:16:05]         1.0.1: Use correct Vuze build version.
+[17:16:05]         1.0.0: Report create error and bump version.
+[17:16:05]         0.2.8: Added more diagnostics.
+[17:16:05]         0.2.7: Normalise keys.
+[17:16:05]         0.2.5: Take shared licence write off main thread.
+[17:16:05]         0.2.4: Ensure copy of licence passed to initial add callback.
+[17:16:05]         0.2.3: Signing error.
+[17:16:05]         0.2.2: Improve error reporting.
+[17:16:05]         0.2.1: Remove debug.
+[17:16:05]         0.2: Simple UI for testing.
+[17:16:05]         0.1.6: Report failures better.
+[17:16:05]         0.1.5: Fix reporting of installation-complete event.
+[17:16:05]         0.1.4: Installation start callback.
+[17:16:05]         0.1.2: Added fingerprint and fixed a few bugs.
+[17:16:05]         0.1.1: Fix NPE.
+[17:16:05]         0.1: Initial release.
+[17:16:05]         
+[17:16:05] 
+[17:16:05]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[17:16:07] Checking azupdater
+[17:16:07]     Current: 0.0, Latest: 1.8.16
+[17:16:07] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:16:07]     Description:
+[17:16:07]         Normally installed via auto-update.
+[17:16:07]         This plugin contains support for restarting azureus when upgrading.
+[17:16:07]     Comment:
+[17:16:07]         1.8.17: Handle renamed Java vendor id.
+[17:16:07]         1.8.16: Support utf-8 action file.
+[17:16:07]         1.8.15: Write a failure file on update fail.
+[17:16:07]         1.8.14: New option to apply updates without a restart.
+[17:16:07]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[17:16:07]         1.8.9: Fix Snow Leopard open-torrent issues.
+[17:16:07]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[17:16:07]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[17:16:07]         1.8.8: Fix build error in 1.8.7.
+[17:16:07]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[17:16:07]         1.8.5: Linux restarter changed to launch using original script.
+[17:16:07]         1.8.4: File move operation now creates parent directory if required.
+[17:16:07]         
+[17:16:07]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[17:16:07]         1.8.2: OSX restart fixes.
+[17:16:07]         1.8.1: OSX native restart changes.
+[17:16:07]         1.8: Support for exe4j launcher based restart.
+[17:16:07]         1.7.1: More generic restart support.
+[17:16:07]         1.7: Patch to 2302 to fix dht version propagation problem.
+[17:16:07]         1.7: Support for moving to recycle bin.
+[17:16:07]         
+[17:16:07]         
+[17:16:07] 
+[17:16:07]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[17:16:07] Checking azupnpav
+[17:16:07]     Current: 0.0, Latest: 0.3.8
+[17:16:07] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:16:08]     Description:
+[17:16:08]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[17:16:08]         This allows conformant media renderers to stream content present in Azureus.
+[17:16:08]     Comment:
+[17:16:08]         0.3.8: Added some more DLNA source protocols.
+[17:16:08]         0.3.7: Fix synchronization.
+[17:16:08]         0.3.6: Fix auth bug.
+[17:16:08]         0.3.5: Added authentication to content port and UPnP support.
+[17:16:08]         0.3.4: Added a download option.
+[17:16:08]         0.3.3: Fix bind bug.
+[17:16:08]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[17:16:08]         0.3.1: Use black-background jpgs for some devices.
+[17:16:08]         0.3: Added some png icons.
+[17:16:08]         0.2.30: Support samsung using absolute urls in GETs.
+[17:16:08]         0.2.29.2: Added more dlna for Sony Bravia support.
+[17:16:08]         0.2.28: Some WMP support.
+[17:16:08]         0.2.27: Added .m4v to mime map.
+[17:16:08]         0.2.26: Added some boilerplate dlna headers.
+[17:16:08]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[17:16:08]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[17:16:08]         0.2.22: Added plugin method to get content mime-type.
+[17:16:08]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[17:16:08]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[17:16:08]         0.2.19: Added ascending/descending sort order option.
+[17:16:08]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[17:16:08]         0.2.17: Added .vob mime-type.
+[17:16:08]         0.2.16: Improve debug on failed HTTP gets.
+[17:16:08]         0.2.15: OK, really fix it this time.
+[17:16:08]         0.2.14: Remove debug spew and fix id allocation loop.
+[17:16:08]         0.2.13: Fix browse bug; make container ids persistent
+[17:16:08]         0.2.12: Added min stream speed option.
+[17:16:08]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[17:16:08]         0.2.10: Added some rate limiting when excess overwrite detected.
+[17:16:08]         0.2.9: Support keep-alive; added upload rate status.
+[17:16:08]         0.2.8: Changed default http port; Added default sort.
+[17:16:08]         0.2.7: Added IPC methods to support addition of content.
+[17:16:08]         0.2.6: Browse callbacks.
+[17:16:08]         0.2.5: Improve default name of server.
+[17:16:08]         0.2.4: Fix up some bugs with plugin unloading.
+[17:16:08]         0.2.3: Bit of XBox support.
+[17:16:08]         0.2.2: Handle files larger than max integer bytes.
+[17:16:08]         0.2.1: Close stream immediately to fix buffering issue.
+[17:16:08]         0.2.0: Reduced memory usage.
+[17:16:08]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[17:16:08]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[17:16:08]         0.1.7: Security fix.
+[17:16:08]         0.1.6: Fix bug with delayed content loading.
+[17:16:08]         0.1.5: Make the plugin unloadable.
+[17:16:08]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[17:16:08]         0.1.3: Fix to work with 3.0.2.0.
+[17:16:08]         0.1.2: Fixup context menus.
+[17:16:08]         0.1.1: Force .asx files to WMP.
+[17:16:08]         0.1: Initial version.
+[17:16:08]         
+[17:16:08] 
+[17:16:08]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[17:16:08] Checking azplatform2
+[17:16:08]     Current: 1.0, Latest: 1.24
+[17:16:08] Skipping blogracy as not listed on web site
+
+[14/06/12 17.31] Log File Opened for Vuze 4.7.0.2
+[17:32:15] **** Update check starts ****
+[17:32:15] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[17:32:15] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[17:32:15] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[17:32:15] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[17:32:15] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[17:32:15] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[17:32:15] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[17:32:15] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[17:32:15] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[17:32:15] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[17:32:15] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[17:32:15] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[17:32:15] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[17:32:15] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[17:32:15] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[17:32:15] -External Seed, id = azextseed, version = 1.0, loc = 
+[17:32:15] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[17:32:15] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[17:32:15] -Amici, id = azbuddy, version = 1.0, loc = 
+[17:32:15] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[17:32:15] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[17:32:15] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:32:18] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:32:18] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,snarl=1.0/1.0_CVS,azconfigbackup=1.1.1/1.1.1_CVS,seedingcolumns1=1.3.2/1.3.2,azexec=1.2/1.2_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,dopal=/,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,azautorelocate=0.3/0.3_CVS,azantithrottle=0.3.2/0.3.2_CVS,TimedAutoStart=1.7/1.7_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,autopriority=1.0.2/1.0.2_CVS,azcvsupdater=3.1.1/3.1.1_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,azdhtfeed=0.3.8/0.3.8_CVS,p4p=0.3.2/0.3.2_CVS,azemp=3.3.3/3.3.3_CVS,azstatusmailer=0.17/0.17_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,azsavepath=1.2.1/1.2.1_CVS,SampleMainView1=1.0/,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,azlanpeerscanner=0.85/0.85_CVS,news=2.0.1/2.0.1_CVS,advancedstatistics=2.0.2/2.0.2_CVS,yaleinstrumentation=0.5/0.5_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,aefeatman_v=1.2/1.2_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[17:32:18] Checking aefeatman_v
+[17:32:18]     Current: 0.0, Latest: 1.2
+[17:32:18] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:32:18]     Description:
+[17:32:18]         Normally installed via auto-update.
+[17:32:18]         This plugin manages the installation of features.
+[17:32:19]     Comment:
+[17:32:19]         1.2: Improve error messaging for missing/disabled plugins.
+[17:32:19]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[17:32:19]         1.1: Added feature types to update params.
+[17:32:19]         1.0.2: Ensure logging is enabled when we have licences.
+[17:32:19]         1.0.1: Use correct Vuze build version.
+[17:32:19]         1.0.0: Report create error and bump version.
+[17:32:19]         0.2.8: Added more diagnostics.
+[17:32:19]         0.2.7: Normalise keys.
+[17:32:19]         0.2.5: Take shared licence write off main thread.
+[17:32:19]         0.2.4: Ensure copy of licence passed to initial add callback.
+[17:32:19]         0.2.3: Signing error.
+[17:32:19]         0.2.2: Improve error reporting.
+[17:32:19]         0.2.1: Remove debug.
+[17:32:19]         0.2: Simple UI for testing.
+[17:32:19]         0.1.6: Report failures better.
+[17:32:19]         0.1.5: Fix reporting of installation-complete event.
+[17:32:19]         0.1.4: Installation start callback.
+[17:32:19]         0.1.2: Added fingerprint and fixed a few bugs.
+[17:32:19]         0.1.1: Fix NPE.
+[17:32:19]         0.1: Initial release.
+[17:32:19]         
+[17:32:19] 
+[17:32:19]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[17:32:20] Checking azupdater
+[17:32:20]     Current: 0.0, Latest: 1.8.16
+[17:32:20] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:32:21]     Description:
+[17:32:21]         Normally installed via auto-update.
+[17:32:21]         This plugin contains support for restarting azureus when upgrading.
+[17:32:21]     Comment:
+[17:32:21]         1.8.17: Handle renamed Java vendor id.
+[17:32:21]         1.8.16: Support utf-8 action file.
+[17:32:21]         1.8.15: Write a failure file on update fail.
+[17:32:21]         1.8.14: New option to apply updates without a restart.
+[17:32:21]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[17:32:21]         1.8.9: Fix Snow Leopard open-torrent issues.
+[17:32:21]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[17:32:21]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[17:32:21]         1.8.8: Fix build error in 1.8.7.
+[17:32:21]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[17:32:21]         1.8.5: Linux restarter changed to launch using original script.
+[17:32:21]         1.8.4: File move operation now creates parent directory if required.
+[17:32:21]         
+[17:32:21]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[17:32:21]         1.8.2: OSX restart fixes.
+[17:32:21]         1.8.1: OSX native restart changes.
+[17:32:21]         1.8: Support for exe4j launcher based restart.
+[17:32:21]         1.7.1: More generic restart support.
+[17:32:21]         1.7: Patch to 2302 to fix dht version propagation problem.
+[17:32:21]         1.7: Support for moving to recycle bin.
+[17:32:21]         
+[17:32:21]         
+[17:32:21] 
+[17:32:21]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[17:32:21] Checking azupnpav
+[17:32:21]     Current: 0.0, Latest: 0.3.8
+[17:32:21] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[17:32:21]     Description:
+[17:32:21]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[17:32:21]         This allows conformant media renderers to stream content present in Azureus.
+[17:32:21]     Comment:
+[17:32:21]         0.3.8: Added some more DLNA source protocols.
+[17:32:21]         0.3.7: Fix synchronization.
+[17:32:21]         0.3.6: Fix auth bug.
+[17:32:21]         0.3.5: Added authentication to content port and UPnP support.
+[17:32:21]         0.3.4: Added a download option.
+[17:32:21]         0.3.3: Fix bind bug.
+[17:32:21]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[17:32:21]         0.3.1: Use black-background jpgs for some devices.
+[17:32:21]         0.3: Added some png icons.
+[17:32:21]         0.2.30: Support samsung using absolute urls in GETs.
+[17:32:21]         0.2.29.2: Added more dlna for Sony Bravia support.
+[17:32:21]         0.2.28: Some WMP support.
+[17:32:21]         0.2.27: Added .m4v to mime map.
+[17:32:21]         0.2.26: Added some boilerplate dlna headers.
+[17:32:21]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[17:32:21]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[17:32:21]         0.2.22: Added plugin method to get content mime-type.
+[17:32:21]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[17:32:21]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[17:32:21]         0.2.19: Added ascending/descending sort order option.
+[17:32:21]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[17:32:21]         0.2.17: Added .vob mime-type.
+[17:32:21]         0.2.16: Improve debug on failed HTTP gets.
+[17:32:21]         0.2.15: OK, really fix it this time.
+[17:32:21]         0.2.14: Remove debug spew and fix id allocation loop.
+[17:32:21]         0.2.13: Fix browse bug; make container ids persistent
+[17:32:21]         0.2.12: Added min stream speed option.
+[17:32:21]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[17:32:21]         0.2.10: Added some rate limiting when excess overwrite detected.
+[17:32:21]         0.2.9: Support keep-alive; added upload rate status.
+[17:32:21]         0.2.8: Changed default http port; Added default sort.
+[17:32:21]         0.2.7: Added IPC methods to support addition of content.
+[17:32:21]         0.2.6: Browse callbacks.
+[17:32:21]         0.2.5: Improve default name of server.
+[17:32:21]         0.2.4: Fix up some bugs with plugin unloading.
+[17:32:21]         0.2.3: Bit of XBox support.
+[17:32:21]         0.2.2: Handle files larger than max integer bytes.
+[17:32:21]         0.2.1: Close stream immediately to fix buffering issue.
+[17:32:21]         0.2.0: Reduced memory usage.
+[17:32:21]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[17:32:21]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[17:32:21]         0.1.7: Security fix.
+[17:32:21]         0.1.6: Fix bug with delayed content loading.
+[17:32:21]         0.1.5: Make the plugin unloadable.
+[17:32:21]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[17:32:21]         0.1.3: Fix to work with 3.0.2.0.
+[17:32:21]         0.1.2: Fixup context menus.
+[17:32:21]         0.1.1: Force .asx files to WMP.
+[17:32:21]         0.1: Initial version.
+[17:32:21]         
+[17:32:21] 
+[17:32:21]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[17:32:22] Checking azplatform2
+[17:32:22]     Current: 1.0, Latest: 1.24
+[17:32:22] Skipping blogracy as not listed on web site
+
+[15/06/12 10.32] Log File Opened for Vuze 4.7.0.2
+[10:33:16] **** Update check starts ****
+[10:33:16] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\aefeatman_v
+[10:33:16] -Azureus Updater Support Patcher, id = azupdater, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupdater
+[10:33:16] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\azupnpav
+[10:33:16] -Vuze Feature Manager, id = aefeatman_v, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\aefeatman_v
+[10:33:16] -UPnP Media Server, id = azupnpav, version = 0.0, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\plugins\azupnpav
+[10:33:16] -Start/Stop Rules, id = azbpstartstoprules, version = 1.0, loc = 
+[10:33:16] -Download Remove Rules, id = azbpremovalrules, version = 1.0, loc = 
+[10:33:16] -Share Hoster, id = azbpsharehoster, version = 1.0, loc = 
+[10:33:16] -Plugin Updater, id = azbppluginupdate, version = 1.0, loc = 
+[10:33:16] -Universal Plug and Play (UPnP), id = azbpupnp, version = 1.0, loc = 
+[10:33:16] -Distributed DB, id = azbpdht, version = 1.0, loc = 
+[10:33:16] -Distributed Tracker, id = azbpdhdtracker, version = 1.0, loc = 
+[10:33:16] -Magnet URI Handler, id = azbpmagnet, version = 1.0, loc = 
+[10:33:16] -Core Updater, id = azbpcoreupdater, version = 4.7.0.2, loc = 
+[10:33:16] -Platform-Specific Support, id = azplatform2, version = 1.0, loc = 
+[10:33:16] -External Seed, id = azextseed, version = 1.0, loc = 
+[10:33:16] -LAN Peer Finder, id = azlocaltracker, version = 1.0, loc = 
+[10:33:16] -Stato della rete, id = aznetstat, version = 1.0, loc = 
+[10:33:16] -Amici, id = azbuddy, version = 1.0, loc = 
+[10:33:16] -Local RSS etc., id = azintrss, version = 1.0, loc = 
+[10:33:16] -Blogracy, id = blogracy, version = 0.1, loc = D:\Altre cose\Eclipse Workspace\blogracy-vuze\target\.\plugins\blogracy
+[10:33:16] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[10:33:17] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[10:33:17] Downloaded plugin info = xml_http_if=1.1.7/1.1.7_CVS,mlDHT=1.3.5.2/1.3.5.2_CVS,azupdater=1.8.16/1.8.17_CVS,azpeerinjector=0.4/0.4_CVS,hvi=600/600_CVS,torrentnameutils=1.0/1.0_CVS,safepeer=unsupported/unsupported_CVS,azofflinedownloader=0.2/0.2_CVS,ono=2.3/2.3_CVS,snarl=1.0/1.0_CVS,azconfigbackup=1.1.1/1.1.1_CVS,seedingcolumns1=1.3.2/1.3.2,azexec=1.2/1.2_CVS,CountryLocator=1.8.3/1.8.3_CVS,azplugins=2.1.4/2.1.6_CVS,i18nAZ=1.2/1.2_CVS,3DView=0.3.1/0.3.1_CVS,xmwebui=0.2.9/0.2.10_CVS,uploadshaper=1.0.1/1.0.1_CVS,firefrog=1.0.1/1.0.1_CVS,atelnetui=0.0.2/,azdowndel=0.3.1/0.3.1_CVS,azcatdest=0.0.1/0.0.1_CVS,mlab=0.1.9/0.1.9_CVS,scanerss=0.9.9/0.9.9.20091109_CVS,azlockr=0.12/0.12_CVS,azburn_v=1.3.5/1.3.5_CVS,aesudoku=0.5.1/0.5.1_CVS,dopal=/,azcategorychanger=0.2.1/0.2.1_CVS,azjabber=1.0.4/1.0.4_CVS,azteamseeder=0.1.2/0.1.2_CVS,dasu=3.02/3.02_CVS,azautoseeder=0.1.1/0.1.1_CVS,azautorelocate=0.3/0.3_CVS,azantithrottle=0.3.2/0.3.2_CVS,TimedAutoStart=1.7/1.7_CVS,statusicon=1.1/1.1_CVS,autostop=2.0.3/2.0.3_CVS,autopriority=1.0.2/1.0.2_CVS,azcvsupdater=3.1.1/3.1.1_CVS,ConsoleScheduler=0.2.4/0.2.4_CVS,Example=1.0/,aeantivirus_v=0.3.6/0.3.6_CVS,azrating=1.3.1/1.3.1_CVS,hyperspace=0.35/0.35_CVS,izureus=0.1/0.1_CVS,azjython=0.6.5/0.6.5_CVS,azrssgen=0.1.1/0.1.1_CVS,azdhtfeed=0.3.8/0.3.8_CVS,p4p=0.3.2/0.3.2_CVS,azemp=3.3.3/3.3.3_CVS,azstatusmailer=0.17/0.17_CVS,winstartstop=/,twitter=0.2/0.2_CVS,ColumnExample2=1.2/1.2_CVS,ColumnExample1=1.1/,rssfeed=1.3.6/1.3.6_CVS,autocat=1.2.0/1.2.0_CVS,azcron=0.5.3/0.5.3_CVS,azdhtscraper=0.1/0.1_CVS,RSSImport=2.2.2/2.2.2_CVS,test=/0.1.2_CVS,webui=1.7.0/1.7.2_CVS,p4p_package=/,vuzexcode=0.7.7/0.7.8_CVS,azitunes=0.2.6/0.2.6_CVS,swarmscreen=0.5/0.5_CVS,aznetmon=0.4/0.4_CVS,azupnpav=0.3.8/0.4.0_CVS,azplatform2=1.24/1.25_CVS,azneti2p=0.2.1/0.2.1_CVS,SpeedScheduler=1.6.0/1.6.0_CVS,azsmrc=1.0.0/1.0.0_CVS,SampleMainView2=1.0/,azsavepath=1.2.1/1.2.1_CVS,SampleMainView1=1.0/,azfocus=0.3/0.3_CVS,azhtmlwebui=0.7.6/0.7.6_CVS,azblog=1.0/1.0_CVS,phpcontrollayer=/,multi-ports=1.0/,aeimp=0.29/0.29_CVS,azlanpeerscanner=0.85/0.85_CVS,news=2.0.1/2.0.1_CVS,advancedstatistics=2.0.2/2.0.2_CVS,yaleinstrumentation=0.5/0.5_CVS,azutp=0.2.9/0.2.9_CVS,bdcc=2.2.3/2.2.3_CVS,azplatform=1.4/1.4_CVS,monitoringplugin=0.4.1/0.4.2_CVS,VuzeLegendasBaixator=0.3/0.3_CVS,autospeed=0.9.0/0.9.0_CVS,azjpc=1.0/1.0_CVS,ietorrentbar=0.1.4/0.1.4_CVS,azshareexporter=0.4/0.4_CVS,GlobalInformationStatusEntry=1.6/1.6_CVS,aefeatman_v=1.2/1.2_CVS,progressbar=0.2.2/0.2.3_CVS,azump=1.5/1.5_CVS,chat=1.9/1.9_CVS,azzeroconf=0.2/0.2_CVS
+[10:33:17] Checking aefeatman_v
+[10:33:17]     Current: 0.0, Latest: 1.2
+[10:33:17] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[10:33:18]     Description:
+[10:33:18]         Normally installed via auto-update.
+[10:33:18]         This plugin manages the installation of features.
+[10:33:18]     Comment:
+[10:33:18]         1.2: Improve error messaging for missing/disabled plugins.
+[10:33:18]         1.1.1: Fixed encoding bug in 1.1 and added retry-count.
+[10:33:18]         1.1: Added feature types to update params.
+[10:33:18]         1.0.2: Ensure logging is enabled when we have licences.
+[10:33:18]         1.0.1: Use correct Vuze build version.
+[10:33:18]         1.0.0: Report create error and bump version.
+[10:33:18]         0.2.8: Added more diagnostics.
+[10:33:18]         0.2.7: Normalise keys.
+[10:33:18]         0.2.5: Take shared licence write off main thread.
+[10:33:18]         0.2.4: Ensure copy of licence passed to initial add callback.
+[10:33:18]         0.2.3: Signing error.
+[10:33:18]         0.2.2: Improve error reporting.
+[10:33:18]         0.2.1: Remove debug.
+[10:33:18]         0.2: Simple UI for testing.
+[10:33:18]         0.1.6: Report failures better.
+[10:33:18]         0.1.5: Fix reporting of installation-complete event.
+[10:33:18]         0.1.4: Installation start callback.
+[10:33:18]         0.1.2: Added fingerprint and fixed a few bugs.
+[10:33:18]         0.1.1: Fix NPE.
+[10:33:18]         0.1: Initial release.
+[10:33:18]         
+[10:33:18] 
+[10:33:18]         A newer version (version 1.2) of plugin 'aefeatman_v' (Vuze Feature Manager,Vuze Feature Manager) is available. Download from http://plugins.vuze.com/plugins/aefeatman_v_1.2.zip
+[10:33:19] Checking azupdater
+[10:33:19]     Current: 0.0, Latest: 1.8.16
+[10:33:19] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[10:33:19]     Description:
+[10:33:19]         Normally installed via auto-update.
+[10:33:19]         This plugin contains support for restarting azureus when upgrading.
+[10:33:19]     Comment:
+[10:33:19]         1.8.17: Handle renamed Java vendor id.
+[10:33:19]         1.8.16: Support utf-8 action file.
+[10:33:19]         1.8.15: Write a failure file on update fail.
+[10:33:19]         1.8.14: New option to apply updates without a restart.
+[10:33:19]         1.8.10: Fix for UI hang on adding torrent with Tor announce URL.
+[10:33:19]         1.8.9: Fix Snow Leopard open-torrent issues.
+[10:33:19]         1.8.11: backport of 1.8.10 fix for 4.2.0.6.
+[10:33:19]         1.8.12: backport of 1.8.10 fix for 4.2.0.4.
+[10:33:19]         1.8.8: Fix build error in 1.8.7.
+[10:33:19]         1.8.7: Grab listen port for more of restart activity to reduce chance of a manual restart interfering with the process.
+[10:33:19]         1.8.5: Linux restarter changed to launch using original script.
+[10:33:19]         1.8.4: File move operation now creates parent directory if required.
+[10:33:19]         
+[10:33:19]         1.8.3: Patch for SF mirror parsing problem on auto-update.
+[10:33:19]         1.8.2: OSX restart fixes.
+[10:33:19]         1.8.1: OSX native restart changes.
+[10:33:19]         1.8: Support for exe4j launcher based restart.
+[10:33:19]         1.7.1: More generic restart support.
+[10:33:19]         1.7: Patch to 2302 to fix dht version propagation problem.
+[10:33:19]         1.7: Support for moving to recycle bin.
+[10:33:19]         
+[10:33:19]         
+[10:33:19] 
+[10:33:19]         A newer version (version 1.8.16) of plugin 'azupdater' (Azureus Updater Support Patcher) is available. Download from http://plugins.vuze.com/plugins/azupdater_1.8.16.zip
+[10:33:19] Checking azupnpav
+[10:33:19]     Current: 0.0, Latest: 0.3.8
+[10:33:19] [  Downloading: http://plugins.vuze.com/update/pluginlist3.php]
+[10:33:20]     Description:
+[10:33:20]         The Media Server Plugin provides a simple UPnP Media Server interface.
+[10:33:20]         This allows conformant media renderers to stream content present in Azureus.
+[10:33:20]     Comment:
+[10:33:20]         0.3.8: Added some more DLNA source protocols.
+[10:33:20]         0.3.7: Fix synchronization.
+[10:33:20]         0.3.6: Fix auth bug.
+[10:33:20]         0.3.5: Added authentication to content port and UPnP support.
+[10:33:20]         0.3.4: Added a download option.
+[10:33:20]         0.3.3: Fix bind bug.
+[10:33:20]         0.3.2: Added some DLNA protocol info for jpg,png,gif,mp3 and wma.
+[10:33:20]         0.3.1: Use black-background jpgs for some devices.
+[10:33:20]         0.3: Added some png icons.
+[10:33:20]         0.2.30: Support samsung using absolute urls in GETs.
+[10:33:20]         0.2.29.2: Added more dlna for Sony Bravia support.
+[10:33:20]         0.2.28: Some WMP support.
+[10:33:20]         0.2.27: Added .m4v to mime map.
+[10:33:20]         0.2.26: Added some boilerplate dlna headers.
+[10:33:20]         0.2.24: Enabled the copy-stream-uri menu option for incomplete downloads.
+[10:33:20]         0.2.23: Added hack to handle TiVo behaviour on stream complete.
+[10:33:20]         0.2.22: Added plugin method to get content mime-type.
+[10:33:20]         0.2.21: Added option to add suffix eta/percentage to incomplete files.
+[10:33:20]         0.2.20: Support bind ips and fix 'prefer ipv6' binding bug.
+[10:33:20]         0.2.19: Added ascending/descending sort order option.
+[10:33:20]         0.2.18: Added date sort order; Basic category support for movies, music and pictures.
+[10:33:20]         0.2.17: Added .vob mime-type.
+[10:33:20]         0.2.16: Improve debug on failed HTTP gets.
+[10:33:20]         0.2.15: OK, really fix it this time.
+[10:33:20]         0.2.14: Remove debug spew and fix id allocation loop.
+[10:33:20]         0.2.13: Fix browse bug; make container ids persistent
+[10:33:20]         0.2.12: Added min stream speed option.
+[10:33:20]         0.2.11: Fix premature threshold triggering when insufficient samples.
+[10:33:20]         0.2.10: Added some rate limiting when excess overwrite detected.
+[10:33:20]         0.2.9: Support keep-alive; added upload rate status.
+[10:33:20]         0.2.8: Changed default http port; Added default sort.
+[10:33:20]         0.2.7: Added IPC methods to support addition of content.
+[10:33:20]         0.2.6: Browse callbacks.
+[10:33:20]         0.2.5: Improve default name of server.
+[10:33:20]         0.2.4: Fix up some bugs with plugin unloading.
+[10:33:20]         0.2.3: Bit of XBox support.
+[10:33:20]         0.2.2: Handle files larger than max integer bytes.
+[10:33:20]         0.2.1: Close stream immediately to fix buffering issue.
+[10:33:20]         0.2.0: Reduced memory usage.
+[10:33:20]         0.1.9: Reduced some wait times; added diagnostic directory print.
+[10:33:20]         0.1.8: Add to the music/movie/picture subcategories based on content; fix for PS3 empty folder error.
+[10:33:20]         0.1.7: Security fix.
+[10:33:20]         0.1.6: Fix bug with delayed content loading.
+[10:33:20]         0.1.5: Make the plugin unloadable.
+[10:33:20]         0.1.4: Fix bug with removal of content, name clashes and added option to turn of upnp component.
+[10:33:20]         0.1.3: Fix to work with 3.0.2.0.
+[10:33:20]         0.1.2: Fixup context menus.
+[10:33:20]         0.1.1: Force .asx files to WMP.
+[10:33:20]         0.1: Initial version.
+[10:33:20]         
+[10:33:20] 
+[10:33:20]         A newer version (version 0.3.8) of plugin 'azupnpav' (UPnP Media Server,UPnP Media Server) is available. Download from http://plugins.vuze.com/plugins/azupnpav_0.3.8.zip
+[10:33:20] Checking azplatform2
+[10:33:20]     Current: 1.0, Latest: 1.24
+[10:33:20] Skipping blogracy as not listed on web site

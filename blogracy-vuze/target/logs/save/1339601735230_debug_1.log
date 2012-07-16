@@ -1,0 +1,18 @@
+
+[13/06/12 17.23] Log File Opened for Vuze 4.7.0.2
+[17:23:39] DEBUG::Wed Jun 13 17:23:39 CEST 2012  Successfully migrated key management
+[17:23:55] [stderr] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[17:23:55] [stderr] SLF4J: Defaulting to no-operation (NOP) logger implementation
+[17:23:55] [stderr] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[17:23:55] [stderr] SLF4J: Failed to load class "org.slf4j.impl.StaticMDCBinder".
+[17:23:55] [stderr] SLF4J: Defaulting to no-operation MDCAdapter implementation.
+[17:23:55] [stderr] SLF4J: See http://www.slf4j.org/codes.html#no_static_mdc_binder for further details.
+[17:24:11] [stderr] giu 13, 2012 5:24:11 PM net.blogracy.logging.Logger$1 info
+[17:24:11] [stderr] Informazioni: Blogracy Vuze plugin has started correctly
+[17:24:24] [stderr] DEBUG::Wed Jun 13 17:24:21 CEST 2012::com.aelitis.azureus.core.versioncheck.VersionCheckClient$2::run::191:
+[17:24:24] [stderr]   Timeout waiting for version check to complete
+[17:24:24] [stderr]     UtilitiesImpl$DelayedTaskImpl::run::1735, UtilitiesImpl$8::run::1099, AEThread2$threadWrapper::run::299
+[17:25:32] [stderr] giu 13, 2012 5:25:32 PM net.blogracy.logging.Logger$1 info
+[17:25:32] [stderr] Informazioni: chat request by W3W7TSICZWSCUK4R7C7HMQ633GRL6YPU;
+[17:25:47] [stderr] giu 13, 2012 5:25:47 PM net.blogracy.logging.Logger$1 info
+[17:25:47] [stderr] Informazioni: chat request by BLANNBXOHECW2MWHVN5AU5X4KCDDIQJZ;
